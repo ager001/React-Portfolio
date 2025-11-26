@@ -37,7 +37,7 @@
     border-radius: 50px;
     background: rgb(29, 44, 90) ;
     cursor: pointer;
-    color: white;
+    color: black;
 }
 
 .hero-resume{
@@ -46,14 +46,7 @@
     border-radius: 50px;
     border: 2px solid black;
     cursor: pointer;
-
-}
-.hero-connect:hover{
     background-color: white;
-    border: 2px solid black;
     color: black;
-}
-.hero-resume:hover{
-    background-color: rgb(29, 44, 90);
-    color: white;
+
 }
