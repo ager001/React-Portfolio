@@ -1,33 +1,29 @@
 const Services_Data = [
     {
-        s_no:"01",
+        
         s_name:"Web design",
-        s_desc:"Web development is the process of building, programming..."
+        s_desc:"I build a wide range of websites depending on the client's preference. These include portfolios, e-commerce websites and static web pages "
     },
     {
-        s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        
+        s_name:"English and Literature CBE Educator",
+        s_desc:"I am a certified teacher of English and literature by profession and I am also looking for avenues where I can use my skills to educate and impact learners"
+    },
+   
+    {
+        
+        s_name:"Computer Studies Instructor",
+        s_desc:"I teach range of topics which may include, introduction to programming(JavaScript), Web Design(HTML/CSS) and Data Management/Databases"
     },
     {
-        s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
-    },
-    {
-        s_no:"04",
-        s_name:"App design",
-        s_desc:"Web development is the process of building, programming..."
-    },
-    {
-        s_no:"05",
+        
         s_name:"Digital marketing",
-        s_desc:"Web development is the process of building, programming..."
+        s_desc:"I design, build and maintain a compelling presence across all digital platforms, including the company website, social media channels and email."
     },
     {
-        s_no:"06",
+        
         s_name:"Content writing",
-        s_desc:"Web development is the process of building, programming..."
+        s_desc:"I research, plan, write and edit a variety of content types, including: Long-form article and Blog Posts, Social Media Captions and promotional copy."
     },
 ]
  
