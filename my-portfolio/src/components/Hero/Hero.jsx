@@ -5,6 +5,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 
 
+
 const Hero = () => {
     return (
         <div id='home' className='hero'>
@@ -16,7 +17,9 @@ const Hero = () => {
 
             <div className="hero-action">
                 <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-                <div className="hero-resume">My resume</div>
+                <div className="hero-resume">
+                   <a className='resume-link' href="/ResumeMidenga.pdf" download= "ResumeMidenga.pdf"> My resume</a> 
+                    </div>
             </div>
 
         </div>
